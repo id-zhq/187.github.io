@@ -8,8 +8,8 @@ github: https://github.com/18738529936/
 baseurl: ''
 description: Actually, less is more!
 meta_description: zhq;个人博客
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+motto: 士不可以不弘毅，任重而道远。
+banner: 赱乂的博客
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
